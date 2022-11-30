@@ -99,5 +99,5 @@ h4.start()
 h1.start()
 hm2.start()
 
-pw_a.stop()
+pw_A.stop()
 GPIO.cleanup_()

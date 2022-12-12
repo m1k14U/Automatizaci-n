@@ -8,6 +8,7 @@
 'En el siguiente repositorio se encontrará todo lo relacionado a la síntesis automatizada:'
 
 '''
+
 -Códigos  
 -Referencias  
 -Muestra de diseño

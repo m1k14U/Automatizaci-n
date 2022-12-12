@@ -1,11 +1,14 @@
 # Automatizaci-n
 
 ### Autores:
-- Flores-Ortiz, M.A.,
-* Mier-Jimenez, R.S.,
+- Flores-Ortiz, M.A.
+* Mier-Jimenez, R.S.
 + Aguilar-Granda, A.
 
-'En el siguiente repositorio se encontrará todo lo relacionado a la síntesis automatizada: \n
--Códigos  \n
--Referencias  \n
--Muestra de diseño'
+'En el siguiente repositorio se encontrará todo lo relacionado a la síntesis automatizada:'
+
+'''
+-Códigos  
+-Referencias  
+-Muestra de diseño
+'''

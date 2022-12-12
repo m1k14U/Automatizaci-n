@@ -1,6 +1,6 @@
-## Automatizaci-n
+# Automatizaci-n
 
-Autores:
+### Autores:
 Flores-Ortiz, M.A.,
 Mier-Jimenez, R.S.,
 Aguilar-Granda, A.

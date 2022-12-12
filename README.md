@@ -10,7 +10,7 @@ En el siguiente repositorio se encontrará todo lo relacionado a la síntesis au
 ```
 
 -Códigos  
--Referencias  
 -Muestra de diseño
+-Referencias  
 
 ```

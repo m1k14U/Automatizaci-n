@@ -92,12 +92,12 @@ hm=threading.Thread(target=Dir_Fav_MotorA)
 hm2=threading.Thread(target=Dir_Contr_MotorA)
 
 
-h3.start()
-hm.start()
-h2.start()
-h4.start()
-h1.start()
-hm2.start()
+h3.run()
+hm.run()
+h2.run()
+h4.run()
+h1.run()
+hm2.run()
 
 pw_A.stop()
 GPIO.cleanup_()

@@ -48,3 +48,6 @@ btn3 = Button(root, text="Aplicar").grid(row=3, column=2, columnspan=1)
 btn4 = Button(root, text="Aplicar").grid(row=3, column=3, columnspan=1)
 
 mainloop()
+
+
+#Créditos:Miguel Alberto Flores-Ortiz y Gustavo Alejandro Morlet Avilés

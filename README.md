@@ -4,7 +4,7 @@
 - Flores-Ortiz, M. A.
 * Mier-Jimenez, R. S.
 + Aguilar-Granda, A.
-+ Morlet-Avilés, G. .
+- Morlet-Avilés, G. .
 
 En el siguiente repositorio se encontrará todo lo relacionado a la síntesis automatizada:
 
